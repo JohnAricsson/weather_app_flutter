@@ -1,17 +1,33 @@
-# weather_app_flutter
+# 🌦️ Flutter Weather App
 
-A new Flutter project.
+A clean and modern weather application built with Flutter to explore advanced UI design, real-time API integration, and scalable state management using the BLoC pattern.
 
-## Getting Started
+## ✨ Features
+- Glassmorphic modern UI with blur effects and gradient backgrounds
+- Real-time weather data from a live API (Weatherapi.com)
+- Automatic GPS location detection
+- Dynamic weather metrics and localized timestamps
+- Translucent weather information cards
+- Responsive and smooth state-driven updates using BLoC
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter & Dart
+- Flutter BLoC
+- Equatable
+- REST API
+- JSON Parsing
+- Geolocator
+- Environment Variables
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 What I Learned
+- Advanced Flutter UI styling
+- Async API handling
+- Clean architecture principles
+- BLoC state management
+- Location and permission handling
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🔐 Security
+- API keys are stored securely using environment configuration files instead of hardcoding sensitive data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# UI
+<img width="396" height="857" alt="Image" src="https://github.com/user-attachments/assets/9e3c8261-a6bf-4f9e-a8ac-64c60af0e274" />
